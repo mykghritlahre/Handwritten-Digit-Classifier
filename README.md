@@ -71,4 +71,3 @@ GitHub user: [mykghritlahre](https://github.com/mykghritlahre)
 
 ---
 
-Feel free to edit this README to better suit your project's needs.
